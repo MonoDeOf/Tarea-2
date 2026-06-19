@@ -1,0 +1,20 @@
+1, Correr en cinta, Cardio, Básico, 20, Correr a ritmo suave y constante en cinta plana, 0
+2, Bicicleta estática, Cardio, Básico, 25, Pedaleo continuo a baja resistencia, 0
+3, Saltar la cuerda, Cardio, Intermedio, 15, Series de saltos continuos con cuerda a ritmo medio, 0
+4, Burpees, Cardio, Avanzado, 20, Ejecución explosiva de burpees con salto al final, 0
+5, Sprints en cinta, Cardio, Alto Rendimiento, 30, Intervalos de velocidad máxima con pausas de 30 segundos, 0
+6, Elíptica, Cardio, Básico, 30, Movimiento continuo en elíptica a resistencia baja, 1
+7, Escaladora, Cardio, Intermedio, 25, Subida continua simulada a ritmo constante, 0
+8, HIIT cardio, Cardio, Avanzado, 35, Circuito de alta intensidad con intervalos de 40 y 20 segundos, 2
+9, Remo en máquina, Cardio, Intermedio, 20, Remo continuo manteniendo postura correcta, 0
+10, Natación simulada, Cardio, Alto Rendimiento, 40, Series de brazadas explosivas en seco con bandas, 0
+11, Sentadillas, Fuerza, Básico, 30, Sentadillas con peso corporal manteniendo espalda recta, 0
+12, Press de banca, Fuerza, Intermedio, 45, Press con barra al 60% del peso máximo, 0
+13, Peso muerto, Fuerza, Avanzado, 50, Levantamiento con barra al 75% del peso máximo, 0
+14, Dominadas, Fuerza, Intermedio, 30, Series de dominadas con agarre prono, 1
+15, Curl de bíceps, Fuerza, Básico, 25, Curl alternado con mancuernas a peso moderado, 0
+16, Press militar, Fuerza, Avanzado, 40, Press sobre cabeza con barra de pie, 0
+17, Zancadas, Fuerza, Básico, 20, Zancadas alternadas con peso corporal, 2
+18, Hip thrust, Fuerza, Intermedio, 35, Empuje de cadera con barra sobre banco, 0
+19, Remo con barra, Fuerza, Avanzado, 45, Remo inclinado con barra al 70% del peso máximo, 0
+20, Snatch olímpico, Fuerza, Alto Rendimiento, 60, Levantamiento olímpico completo con técnica depurada, 0
